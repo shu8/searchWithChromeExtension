@@ -1,0 +1,11 @@
+body {
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+}
+.text {
+    background-color: #1E90FF;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+}
